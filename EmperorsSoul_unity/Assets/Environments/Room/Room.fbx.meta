@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 2f860dd3bf4204e318038d212e2c307e
+timeCreated: 1477851236
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackWallGeo
+    100002: FloorGeo
+    100004: FrontWallGeo
+    100006: RoofGeo
+    100008: //RootNode
+    100010: SideWallAGeo
+    100012: SideWallBGeo
+    100014: TimberAGeo
+    100016: TimberBGeo
+    100018: TimberCGeo
+    100020: TimberDGeo
+    100022: TimberEGeo
+    100024: TimberFGeo
+    100026: TimberHGeo
+    100028: TimberIGeo
+    100030: pCube1
+    400000: BackWallGeo
+    400002: FloorGeo
+    400004: FrontWallGeo
+    400006: RoofGeo
+    400008: //RootNode
+    400010: SideWallAGeo
+    400012: SideWallBGeo
+    400014: TimberAGeo
+    400016: TimberBGeo
+    400018: TimberCGeo
+    400020: TimberDGeo
+    400022: TimberEGeo
+    400024: TimberFGeo
+    400026: TimberHGeo
+    400028: TimberIGeo
+    400030: pCube1
+    2300000: BackWallGeo
+    2300002: FloorGeo
+    2300004: FrontWallGeo
+    2300006: RoofGeo
+    2300008: SideWallAGeo
+    2300010: SideWallBGeo
+    2300012: TimberAGeo
+    2300014: TimberBGeo
+    2300016: TimberCGeo
+    2300018: TimberDGeo
+    2300020: TimberEGeo
+    2300022: TimberFGeo
+    2300024: TimberHGeo
+    2300026: TimberIGeo
+    2300028: pCube1
+    3300000: BackWallGeo
+    3300002: FloorGeo
+    3300004: FrontWallGeo
+    3300006: RoofGeo
+    3300008: SideWallAGeo
+    3300010: SideWallBGeo
+    3300012: TimberAGeo
+    3300014: TimberBGeo
+    3300016: TimberCGeo
+    3300018: TimberDGeo
+    3300020: TimberEGeo
+    3300022: TimberFGeo
+    3300024: TimberHGeo
+    3300026: TimberIGeo
+    3300028: pCube1
+    4300000: FloorGeo
+    4300002: RoofGeo
+    4300004: BackWallGeo
+    4300006: SideWallAGeo
+    4300008: SideWallBGeo
+    4300010: FrontWallGeo
+    4300012: TimberAGeo
+    4300014: TimberBGeo
+    4300016: TimberCGeo
+    4300018: TimberDGeo
+    4300020: TimberEGeo
+    4300022: TimberFGeo
+    4300024: TimberHGeo
+    4300026: TimberIGeo
+    4300028: pCube1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
