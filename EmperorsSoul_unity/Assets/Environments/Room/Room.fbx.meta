@@ -26,6 +26,7 @@ ModelImporter:
     100036: FloorGeo3
     100038: FloorGeo4
     100040: FloorGeo5
+    100042: humanBody
     400000: BackWallGeo
     400002: FloorGeo
     400004: FrontWallGeo
@@ -47,6 +48,7 @@ ModelImporter:
     400036: FloorGeo3
     400038: FloorGeo4
     400040: FloorGeo5
+    400042: humanBody
     2300000: BackWallGeo
     2300002: FloorGeo
     2300004: FrontWallGeo
@@ -67,6 +69,7 @@ ModelImporter:
     2300034: FloorGeo3
     2300036: FloorGeo4
     2300038: FloorGeo5
+    2300040: humanBody
     3300000: BackWallGeo
     3300002: FloorGeo
     3300004: FrontWallGeo
@@ -87,6 +90,7 @@ ModelImporter:
     3300034: FloorGeo3
     3300036: FloorGeo4
     3300038: FloorGeo5
+    3300040: humanBody
     4300000: FloorGeo
     4300002: RoofGeo
     4300004: BackWallGeo
@@ -107,6 +111,7 @@ ModelImporter:
     4300034: FloorGeo3
     4300036: FloorGeo4
     4300038: FloorGeo5
+    4300040: humanBody
     9500000: //RootNode
   materials:
     importMaterials: 1

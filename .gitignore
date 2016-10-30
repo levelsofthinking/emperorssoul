@@ -29,4 +29,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-EmperorsSoul_unity/Temp/
+EmperorsSoul_unity/Temp/*
+EmperorsSoul_unity/[Tt]emp/*
+EmperorsSoul_unity/[Ll]ibrary/*
+EmperorsSoul_unity/[Tt]emp/*
+EmperorsSoul_unity/[Oo]bj/*
+EmperorsSoul_unity/[Bb]uild/*
+EmperorsSoul_unity/[Bb]uilds/*
+EmperorsSoul_unity/Assets/AssetStoreTools*
